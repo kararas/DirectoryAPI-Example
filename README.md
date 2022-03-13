@@ -1,6 +1,7 @@
 # Directory API サンプルコード
 
-このサンプルでは、Google Workspace でグループの情報、登録されたChrome端末の情報を取得し、その情報をスプレッドシートに保存するためのコードを記載しています。<br/>
+Scriptのコードを記載しています。
+Google Workspaceのグループ、Chromebookデバイスの情報を取得するサンプルを紹介します。
 
 ## ファイル構成
 ```
